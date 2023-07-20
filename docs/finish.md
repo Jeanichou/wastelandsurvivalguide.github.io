@@ -137,9 +137,9 @@ DNWeathers.esp
 RTC-DNWeathers.esp
 ```
 
-Press F5 to refresh MO2 and if everything went correctly, the final plugin in MO2's right pane should be:
+Press F5 to refresh MO2 and if everything went correctly, the final plugin in MO2's right pane could be:
 
-- [x] RTC-DNWeathers.esp
+- [x] RTC-DNWeathers.esp 
 
 Click the <button>**Create a Backup**</button> button so if something ever goes wrong you can instantly restore this load order:
 
